@@ -10,7 +10,7 @@
 ##
 
 👋 **Hi, I’m Petr Michal!**  
-I'm passionate about solving technical challenges and creating innovative solutions. What started as a hobby with my first steps in programming has turned into a journey I love. I enjoy building applications from the ground up – from design to implementation, using modern technologies like HTML, CSS, JavaScript, and Node.js.
+I'm passionate about solving technical challenges and creating innovative solutions. What started as a hobby with my first steps in programming has turned into a journey I love. I enjoy building applications from the ground up – from design to implementation, using modern technologies.
 
 💻 **What I work on**  
 I've explored a wide range of technologies, including frontend frameworks like React and React Native, and backend solutions with Node.js and Express. I also enjoy working with tools like Figma to create user-friendly designs, and I have a growing interest in AI, especially with OpenAI.
