@@ -13,6 +13,8 @@
 ### 👋 Hi, I’m Petr Michal!
 I'm passionate about solving technical challenges and creating innovative solutions. What started as a hobby with my first steps in programming has turned into a journey I love. I enjoy building applications from the ground up – from design to implementation, using modern technologies.
 
+Feel free to check out my projects below, and if you’d like to chat, don’t hesitate to reach out! 😊
+
 ##
 
 ### 💻 **What I work on**  
@@ -23,8 +25,6 @@ Right now, I'm diving deep into AI technologies and exploring how artificial int
 
 ### 🏃‍♂️ **In my free time**  
 When I'm not coding, you’ll find me spending time with my family, running, cycling, or hiking in the mountains. I believe in constant improvement and living by the motto: _"You can have results or excuses, but not both."_
-
-Feel free to check out my projects below, and if you’d like to chat, don’t hesitate to reach out! 😊
 
 ## 
 
