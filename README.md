@@ -1,5 +1,5 @@
-### 😉 "You can have results or excuses, but not both."  
-— Arnold Schwarzenegger
+> ### 😉 "You can have results or excuses, but not both."  
+> — Arnold Schwarzenegger
 
 
 ##
