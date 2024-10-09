@@ -1,5 +1,5 @@
 <div align="center">
-  <p>😉"You can have results or excuses, but not both."</p>
+  ###  😉 "You can have results or excuses, but not both."
 </div>
 
 ##
