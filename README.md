@@ -2,6 +2,22 @@
   <img src="https://github.com/user-attachments/assets/d6bde9bd-ee7b-4846-8724-3190e910c12a" alt="Wallpaper" width="835">
  </div>
 
+##
+
+👋 **Hi, I’m Petr Michal!**  
+I'm passionate about solving technical challenges and creating innovative solutions. What started as a hobby with my first steps in programming has turned into a journey I love. I enjoy building applications from the ground up – from design to implementation, using modern technologies like HTML, CSS, JavaScript, and Node.js.
+
+💻 **What I work on**  
+I've explored a wide range of technologies, including frontend frameworks like React and React Native, and backend solutions with Node.js and Express. I also enjoy working with tools like Figma to create user-friendly designs, and I have a growing interest in AI, especially with OpenAI.
+
+🚀 **Currently Learning**  
+Right now, I'm diving deep into AI technologies and exploring how artificial intelligence can make modern apps even smarter. I love finding new ways to improve and learning something new every day.
+
+🏃‍♂️ **In my free time**  
+When I'm not coding, you’ll find me spending time with my family, running, cycling, or hiking in the mountains. I believe in constant improvement and living by the motto: _"You can have results or excuses, but not both."_
+
+Feel free to check out my projects below, and if you’d like to chat, don’t hesitate to reach out! 😊
+
 ## 
 
 <p align="center">
