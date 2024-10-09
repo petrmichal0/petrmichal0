@@ -4,9 +4,9 @@
 ##
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d6bde9bd-ee7b-4846-8724-3190e910c12a" alt="Wallpaper" width="835">
- </div>
-
+  <img src="https://github.com/user-attachments/assets/b851bed2-3af2-4fd6-b12b-de187a8e5743" alt="Wallpaper" width="835">
+</div>
+ 
 ##
 
 ### 👋 Hi, I’m Petr Michal!
