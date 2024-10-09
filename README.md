@@ -1,6 +1,6 @@
-<div align="center">
-  ###  😉 "You can have results or excuses, but not both."
-</div>
+
+###  😉 "You can have results or excuses, but not both."
+
 
 ##
 
