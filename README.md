@@ -32,6 +32,8 @@ I'm driven by the challenge of finding the best solutions to technical problems 
 ### 🎯 Goals in Development
 My goal is to deepen my understanding of AI technologies, like OpenAI, and integrate them into modern applications to solve real-world problems. I am also passionate about learning new tools and expanding my skills across both frontend and backend development.
 
+##
+
 ### 🖥️ Frontend Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
