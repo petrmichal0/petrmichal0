@@ -13,6 +13,8 @@
 ### 👋 Hi, I’m Petr Michal!
 I'm passionate about solving technical challenges and creating innovative solutions. What started as a hobby with my first steps in programming has turned into a journey I love. I enjoy building applications from the ground up – from design to implementation, using modern technologies.
 
+##
+
 ### 💻 **What I work on**  
 I've explored a wide range of technologies, including frontend frameworks like React and React Native, and backend solutions with Node.js and Express. I also enjoy working with tools like Figma to create user-friendly designs, and I have a growing interest in AI, especially with OpenAI.
 
@@ -34,7 +36,7 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
 
 ##
 
-### 🖥️ Frontend Technologies
+### 🖥️ Frontend Skills
 <p>
   <img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" height="30"> 
@@ -46,7 +48,7 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
   <img src="https://img.shields.io/badge/Framer%20Motion-ff0050?style=for-the-badge&logo=framer&logoColor=white" height="30">
 </p>
 
-### 🔧 Backend Technologies
+### 🔧 Backend Skills
 <p>
   <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30"> 
