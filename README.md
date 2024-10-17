@@ -42,6 +42,7 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" height="30"> 
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" height="30"> 
   <img src="https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=black" height="30"> 
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Framer%20Motion-ff0050?style=for-the-badge&logo=framer&logoColor=white" height="30">
@@ -61,6 +62,7 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"> 
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white" height="30">
