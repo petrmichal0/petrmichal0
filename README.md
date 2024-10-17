@@ -61,7 +61,7 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
 <p>
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"> 
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&logo=visual-studio-code" height="30"> 
   <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" height="30"> 
