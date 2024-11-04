@@ -74,6 +74,11 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
   <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white" height="30">
 </p>
 
+### 🧪 Testing
+<p> <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white" height="30"> 
+    <img src="https://img.shields.io/badge/React%20Testing%20Library-e33332?style=for-the-badge&logo=testing-library&logoColor=white" height="30"> 
+</p>
+
 
 
 
