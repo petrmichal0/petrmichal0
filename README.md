@@ -37,46 +37,47 @@ My goal is to deepen my understanding of AI technologies, like OpenAI, and integ
 
 ### 🖥️ Frontend Skills
 <p>
-  <img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" height="30"> 
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" height="30"> 
-  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=black" height="30"> 
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Framer%20Motion-ff0050?style=for-the-badge&logo=framer&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-HTML5-ff5722?style=for-the-badge&labelColor=black&logo=html5&logoColor=ff5722" height="30"> 
+  <img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1" height="30">
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f7df1e" height="30">
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" height="30">
+  <img src="https://img.shields.io/badge/-React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" height="30">
+  <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&labelColor=black&logo=expo&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" height="30">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38b2ac" height="30">
+  <img src="https://img.shields.io/badge/-FramerMotion-BC4A97?style=for-the-badge&labelColor=black&logo=framer&logoColor=BC4A97" height="30"> </p>
 </p>
 
 ### 🔧 Backend Skills
 <p>
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3c873a" height="30">
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47a248" height="30">
+  <img src="https://img.shields.io/badge/-Supabase-3ecf8e?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ecf8e" height="30">
+  <img src="https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffca28" height="30">
 </p>
 
 ### ⚙️ Tools and Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&logo=visual-studio-code" height="30"> 
-  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white" height="30">
+<p> 
+  <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f05032" height="30">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078d7" height="30">
+  <img src="https://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&labelColor=black&logo=postman&logoColor=ff6c37" height="30">
+  <img src="https://img.shields.io/badge/-ChatGPT-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=412991" height="30">
+  <img src="https://img.shields.io/badge/-Heroku-6762a6?style=for-the-badge&labelColor=black&logo=heroku&logoColor=6762a6" height="30">
+  <img src="https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00c7b7" height="30">
 </p>
 
 ### 🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="30"> 
-  <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white" height="30">
+<p> 
+  <img src="https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&labelColor=black&logo=figma&logoColor=f24e1e" height="30">
+  <img src="https://img.shields.io/badge/-Canva-00c4cc?style=for-the-badge&labelColor=black&logo=canva&logoColor=00c4cc" height="30">
 </p>
 
 ### 🧪 Testing
-<p> <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white" height="30"> 
-    <img src="https://img.shields.io/badge/React%20Testing%20Library-e33332?style=for-the-badge&logo=testing-library&logoColor=white" height="30"> 
+<p>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325" height="30">
+  <img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&labelColor=black&logo=testing-library&logoColor=E33332" height="30">
 </p>
 
 
